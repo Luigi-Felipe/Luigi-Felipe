@@ -5,6 +5,7 @@
 
 - 🔭 ’m currently working as a Technical Supervisor in T.I
 - 🌱 I’m currently learning PYTHON
+- Basic HTML5
 
 🖥️
 </> 
