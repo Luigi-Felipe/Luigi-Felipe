@@ -3,7 +3,7 @@
 
 <Luigi-Felipe/Luigi-Felipe>🤯
 
-- 🔭 ’m currently working as a Technical Supervisor in T.I
+- 🔭 ’m currently working as a Technical Supervisor in T.I / Senior computer technician
 - 🌱 I’m currently learning PYTHON
 - Basic HTML5
 
