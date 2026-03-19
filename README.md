@@ -12,10 +12,7 @@
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/4fc2175f-d2e5-4fbe-bd9c-8ff2beecba15)
 
-### 📊 Minhas Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luigi-Felipe&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+
 
 
 
