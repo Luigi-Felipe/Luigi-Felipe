@@ -4,6 +4,7 @@
 <Luigi-Felipe/Luigi-Felipe>🤯
 
 - 🔭 ’m currently working as a Technical Supervisor in T.I / Senior computer technician
+- Analista de GRC | Compliance | Bacharel em Direito & ADS
 - 🌱 I’m currently learning PYTHON
 - Basic HTML5
 
