@@ -7,7 +7,10 @@
 - Analista de GRC | Compliance | Bacharel em Direito & ADS
 - 🌱 I’m currently learning PYTHON
 - Basic HTML5
-  Linkedin :https://www.linkedin.com/in/luigi-felipe-marques-bilia-0b954a28b/?skipRedirect=true
+
+- Linkedin :https://www.linkedin.com/in/luigi-felipe-marques-bilia-0b954a28b/?skipRedirect=true
+
+
 🖥️
 </> 
   
